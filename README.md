@@ -1,0 +1,1 @@
+hello if youre using my model i added all the nedded comments the datset structure and model artichecture are showed too if you like to use another dataset like spam or other pls have causion n the number of labels and the structure of that dataset to match my code 
